@@ -35,8 +35,6 @@ I built this project to apply what I have learned in data engineering — from w
  
 I put a lot of effort into writing clean, well-organized code with a clear structure and comments throughout each notebook. I hope you find the project useful and easy to follow.
  
-- GitHub: [github.com/MoTahaAboHeiba](https://github.com/MoTahaAboHeiba)
-- LinkedIn: [linkedin.com/in/mohamed-taha-abo-heiba](https://linkedin.com/in/mohamed-taha-abo-heiba)
  
 ---
  
