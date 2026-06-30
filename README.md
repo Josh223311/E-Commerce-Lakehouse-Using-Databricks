@@ -7,8 +7,7 @@ The project demonstrates how a Lakehouse unifies data engineering and analytics 
 ---
  
 ## Table of Contents
- 
-- [Author](#author)
+
 - [Project Overview](#project-overview)
 - [Architecture](#architecture)
 - [Data Sources](#data-sources)
