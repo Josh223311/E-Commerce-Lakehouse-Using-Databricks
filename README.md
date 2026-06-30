@@ -27,9 +27,6 @@ The project demonstrates how a Lakehouse unifies data engineering and analytics 
  
 ---
  
-## Author
- 
-**Mohamed Taha Abo Heiba** — Junior Data Engineer
  
 I built this project to apply what I have learned in data engineering — from working with raw, messy data all the way to producing business-ready models. It demonstrates an end-to-end data pipeline covering data ingestion, transformation, and dimensional modeling, following industry best practices including Medallion Architecture, ETL process design, and star schema data modeling.
  
